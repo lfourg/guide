@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lfourg.github.io/docs/index.html</loc>
+    
+    <lastmod>2019-04-24T02:53:08.536Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lfourg.github.io/themes/index.html</loc>
     
     <lastmod>2019-04-23T03:55:14.887Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>https://lfourg.github.io/docs/name/htmlcss.html</loc>
     
     <lastmod>2019-04-23T03:55:14.884Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lfourg.github.io/docs/index.html</loc>
-    
-    <lastmod>2019-04-23T03:55:14.883Z</lastmod>
     
   </url>
   
